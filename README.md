@@ -18,3 +18,9 @@ It's essentially software engineering working on machine learning projects
 # SWE Cirriculum
 
 ## Data Structures and Algos
+
+### Textbooks
+- [CLRM: Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
+
+### Vidoes
+- [Data Structures Rob Edwards SDSU Playlyst](https://www.youtube.com/watch?v=_dy9JnEXekU&list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk&index=7)
